@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Arceus X Official Bypass
-// @version      1.7
+// @version      1.3
 // @description  Bypasser for Arceus X.
 // @author       ytlucaskey : GitHub
 // @match        https://loot-link.com/s?*
